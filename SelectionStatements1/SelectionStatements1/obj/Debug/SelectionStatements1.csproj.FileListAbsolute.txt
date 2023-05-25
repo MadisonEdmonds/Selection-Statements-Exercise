@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\repos\Selection-Statements-Exercise\SelectionStatements1\SelectionStatements1\bin\Debug\SelectionStatements1.exe.config
+C:\Users\HP\Desktop\repos\Selection-Statements-Exercise\SelectionStatements1\SelectionStatements1\bin\Debug\SelectionStatements1.exe
+C:\Users\HP\Desktop\repos\Selection-Statements-Exercise\SelectionStatements1\SelectionStatements1\bin\Debug\SelectionStatements1.pdb
+C:\Users\HP\Desktop\repos\Selection-Statements-Exercise\SelectionStatements1\SelectionStatements1\obj\Debug\SelectionStatements1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\repos\Selection-Statements-Exercise\SelectionStatements1\SelectionStatements1\obj\Debug\SelectionStatements1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\repos\Selection-Statements-Exercise\SelectionStatements1\SelectionStatements1\obj\Debug\SelectionStatements1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\repos\Selection-Statements-Exercise\SelectionStatements1\SelectionStatements1\obj\Debug\SelectionStatements1.exe
+C:\Users\HP\Desktop\repos\Selection-Statements-Exercise\SelectionStatements1\SelectionStatements1\obj\Debug\SelectionStatements1.pdb
